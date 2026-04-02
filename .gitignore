@@ -1,0 +1,10 @@
+target/
+*.class
+*.log
+.DS_Store
+
+# ignore dataset
+data/
+
+# optional large outputs
+results/full/
