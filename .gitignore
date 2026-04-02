@@ -8,3 +8,13 @@ data/
 
 # optional large outputs
 results/full/
+
+models/
+results/reconstructed_meshes/
+*.h5
+*.stl
+
+models/
+results/reconstructed_meshes/
+*.h5
+*.stl
