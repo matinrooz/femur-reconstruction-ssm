@@ -1,0 +1,11 @@
+target/
+*.class
+*.log
+.DS_Store
+
+# dataset and large outputs
+data/
+models/
+results/
+*.h5
+*.stl
