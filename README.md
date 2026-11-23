@@ -1,5 +1,9 @@
 # femur-reconstruction-ssm
 
+**What:** Group project: complete femurs reconstructed from partial 3D scans with a Gaussian process shape model and non-rigid ICP.  
+**Result:** Compared visually: femur 47 fitted best, femur 56 worst, probably because 47 training femurs do not cover enough shape variation.  
+**Stack:** Scala, Scalismo
+
 Group project with Hari Narayanan. We reconstructed complete femur bones from partial 3D
 scans with a statistical shape model, in Scala with [Scalismo](https://scalismo.org).
 
